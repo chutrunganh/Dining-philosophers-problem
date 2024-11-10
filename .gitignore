@@ -33,3 +33,7 @@
 *.exe
 *.out
 *.app
+
+# Ignore all files starting with "solution" except "solution.cpp"
+solution*
+!solution*.cpp
