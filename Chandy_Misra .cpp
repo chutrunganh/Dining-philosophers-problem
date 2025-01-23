@@ -1,3 +1,6 @@
+/*
+Created by: vuong.tnt225540@sis.hust.edu.vn
+*/
 #include <iostream>
 #include <thread>
 #include <mutex>

@@ -1,4 +1,6 @@
 /*
+Created by: anh.ct225564@sis.hust.edu.vn
+
 g++ -pthread solution1.cpp -o solution1
 
 # Run in normal mode:

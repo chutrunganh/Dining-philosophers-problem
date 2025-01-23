@@ -1,3 +1,7 @@
+/*
+Created by: anh.ct225564@sis.hust.edu.vn
+*/
+
 #include <iostream>
 #include <thread>
 #include <semaphore.h>

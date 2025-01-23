@@ -1,3 +1,6 @@
+/*
+Created by: hieu.vm225494@sis.hust.edu.vn
+*/
 #include <iostream>
 #include <thread>
 #include <vector>
