@@ -58,6 +58,12 @@ We propose several solutions to the Dining Philosophers Problem, each with its o
 
 # 🚀 Run the code
 
+First, navigate to the directory where the code is located.
+
+```bash
+cd SourceCode
+```
+
 To complie the code, run the following command in the terminal:
 
 ```bash
@@ -69,3 +75,8 @@ To run the code, run:
 ```bash
 ./replace_with_output_name
 ```
+
+The output when running the code will be the sequence of actions of each philosopher, each kind of action is outputted in a different color. For 
+example, the output will look something like this:
+
+![Output](assets/ExampleOutput.jpg)
