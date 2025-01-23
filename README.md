@@ -20,7 +20,7 @@ The Dining Philosophers Problem illustrates a scenario where five philosophers s
 - **Thinking**: The philosopher simply sits and does nothing.
 - **Eating**: To eat, a philosopher needs to pick up two forks, one at a time. He takes the fork on the left hand side first, then the right ones. Only when he can obtain both forks, he can start to eat.
 
-### Process when he weants to eat:
+### Process when a philosopher wants to eat:
 1. Try to pick up the left fork.
 2. If the left fork is available, try to pick up the right fork. (During the waiting time for the right fork, the philosopher DOES NOT put down the left fork he has already picked up)
 3. If both forks are acquired, start eating.
