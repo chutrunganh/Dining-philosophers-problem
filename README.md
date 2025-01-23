@@ -1,4 +1,4 @@
-# 🍽️ Dining Philosophers Problem
+# Dining Philosophers Problem
 
 ![Banner](assets/banner.png)
 
