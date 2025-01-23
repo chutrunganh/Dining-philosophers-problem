@@ -43,8 +43,8 @@ The primary challenge is ensuring all philosophers can eat without encountering 
 
 We propose several solutions to the Dining Philosophers Problem, each with its own trade-offs and synchronization strategies. 
 
-- Resource hierarchy, semaphore, 
-- Limit number of dinners, 
+- Resource hierarchy
+- Limit number of dinners
 - Chandy/Misra
 - Each fork is a semaphore (Solution 1)
 - Each fork is a semaphore, but only one philosopher can pick up forks at a time (Solution 2)
